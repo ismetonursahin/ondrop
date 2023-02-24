@@ -1,0 +1,32 @@
+.tasinacak{
+  background-color: bisque;
+  color: rgb(56, 108, 114);
+  border: 3px rgb(16, 16, 3) double ;
+  border-radius: 5px;
+  box-shadow: 2px 5px 3px rgb(25, 38, 26);
+  width: 100px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+#btn{
+  margin:50px;
+  background-color:rgb(18, 80, 37) ;
+  color: rgb(254, 254, 254);
+  border-radius: 8px;
+  border: 0;
+  box-shadow: 0px 2px 1px 1px green;
+  width: 25px;
+  height: 15px;
+  
+}
+
+#btn:hover{
+  cursor: pointer;
+  transform: scale(1.2)
+}
+
